@@ -18,7 +18,7 @@
     "react-dom": "^19.1.0",
     "zustand": "^5.0.5"
   },
-  "homepage": "https://github.com/azmi15003/frontend-assesment-atask.git",
+  "homepage": "https://github.com/azmi15003/frontend-assesment-atask",
   "devDependencies": {
     "@babel/preset-env": "^7.27.2",
     "@babel/preset-react": "^7.27.1",
