@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/@types/jest.d.ts","./src/_tests_/searchbar.test.tsx","./src/_tests_/userlist.test.tsx","./src/components/searchbar.tsx","./src/components/usercard.tsx","./src/components/userlist.tsx","./src/page/home.tsx","./src/store/githubstore.ts","./src/types/github.d.ts"],"version":"5.8.3"}
